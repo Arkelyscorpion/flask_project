@@ -1,0 +1,1 @@
+### This is a simple Flask Project which implements Login/Auth and uses SQLalchemy
